@@ -66,7 +66,7 @@ const App: React.FC = () => {
           href="https://tantravruksha.in" 
           target="_blank" 
           rel="noreferrer"
-          className="text-transparent bg-clip-text bg-gradient-to-r from-saffron-DEFAULT to-saffron-light text-[10px] uppercase tracking-wider hover:opacity-80 transition-opacity font-bold"
+          className="text-white text-[10px] uppercase tracking-wider hover:text-saffron-DEFAULT transition-colors font-bold"
         >
           Built by Tantravruksha.in
         </a>
